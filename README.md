@@ -10,5 +10,8 @@
 <a href="https://www.figma.com/file/UpioNCM7R9V1UctRkLnITI/YESSIKA-VARGAS?type=design&mode=design&t=gETK7atQmsAMImTz-1" target="_blank">Link de Figma</a>
 
 <h2>Punto 2: HTML</h2>
-<img scr="./public/images/html.png" alt="html">
+<img src="./public/images/html.png" alt="html">
+
+<h2>Punto 3: CSSS</h2>
+<img src="./public/images/CSS.pdf" alt="csss"
 
